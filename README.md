@@ -7,4 +7,4 @@ In this repository, the code for the experimentation is provided. Different curv
 
 The implementation uses Tensorflow 2.0.
 
-![paper_banner](paper_banner.PNG)
+![paper_banner](paper_banner.png)
